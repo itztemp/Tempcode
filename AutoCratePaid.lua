@@ -1,1 +1,1 @@
-game:GetService("Players"):Kick("Tempcode is discontinued, try cashfarm!")
+game:GetService("Players"):Kick("Tempcode is discontinued, try cashfarm! | discord.gg/getcash")
